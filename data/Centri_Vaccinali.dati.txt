@@ -1,0 +1,30 @@
+ats varese 1,ospedaliero,varese,via,otorino rossi,2,VA,21100
+asst dei sette laghi,ospedaliero,varese,v.le,luigi borri,57,VA,21100
+ospedale di circolo e fondazione macchi,ospedaliero,varese,v.le,luigi borri,57,VA,21100
+centro vaccinale della schiranna,hub,schiranna,p.zza,Roma,1,VA,21100
+centro vaccinale rancio valcuvia,hub,rancio valcuvia,via,provinciale,13,VA,21030
+asl roma 1,aziendale,roma,via,di grottarossa,1035,RM,00100
+asl roma 2,aziendale,roma,via,filippo meda,35,RM,00157
+Hub vaccinale drive,hub,roma,via,della pace,0,RM,00038
+ospedale san pietro fatebenefratelli,ospedaliero,roma,via,cassia,600,RM,00189
+Policlinico Umberto I,ospedaliero,roma,v.le,regina elena,287,RM,00168
+Reale Hub Vaccini CV19,hub,torino,v.le,Giovanni Agnelli,129,TO,10135
+ASL Città di Torino,aziendale,torino,via,s.secondo,29,TO,10128
+Poliambulatorio Comunità,ospedaliero,ivrea,via,natalia ginzburg,7,TO,10015
+Ospedale San Giovanni Bosco,ospedaliero,torino,p.zza,del donatore di sangue,3,TO,10154
+Ospedale di Castellamonte,ospedaliero,castellamonte,p.zza,onorevole pietro nenni,1,TO,10081
+Ausl Reggio Emilia,aziendale,Reggio Emilia,via,giovanni amendola,2,RE,42122
+Carrarafiere,hub,Marina di carrara,via,maestri del marmo,2,MS,54033
+Ospedale di Fidenza,ospedaliero,fidenza,via,don enrico tincati,5,PR,43036
+Centro vaccinale Maria Addolorata,hub,sestri levante,v.le,dante alighieri,134,GE,16039
+Ospedale Palermo,ospedaliero,palermo,p.zza,cannolo,34,PA,90121
+Hub di Trapani,hub,trapani,via,delle rose,55,TP,91100
+Hub Trevisano,hub,treviso,v.le,armando maria,34,TV,31100
+Asl quattro marie,aziendale,vibo valentia,via,rossana nolla,2,VV,89900
+Ospedale Sardo Cuore,ospedaliero,olbia,p.zza,delle pecore,654,OT,07026
+centro vaccinale di Firenze,hub,firenze,via,uffizi,651,FI,50100
+centro vaccinale di Gorizia,hub,gorizia,v.le,dei mille,8,GO,34170
+Ospedale San Salvatore,ospedaliero,l'aquila,via,degli aquilotti,1900,AQ,67100
+Asl di Macerata,aziendale,Macerata,via,4 novembre,256,MC,62100
+Hub di Napoli,hub,Napoli,via,Maradona,2,NA,80100
+Hub di Perugia,hub,Perugia,v.le,bacini,98,PG,06100
